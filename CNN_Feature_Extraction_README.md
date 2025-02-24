@@ -91,6 +91,6 @@ model_cnn.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['a
    ```
 
 4. **Further Processing**:  
-   The extracted features can now be used for tasks such as classification, clustering, or other types of analysis. You can use them with classifiers like Support Vector Machines (SVM), Random Forests, or any other machine learning algorithms.
+   The extracted features can now be used for various tasks apart from our proposed study such as clustering, or other types of analysis. You can use them with classifiers like Support Vector Machines (SVM), Random Forests, or any other machine learning algorithms.
 
 ---
